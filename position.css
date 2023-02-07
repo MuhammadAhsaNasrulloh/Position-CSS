@@ -1,0 +1,17 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  background-color: #0ff000;
+  border-radius: 50%;
+  position: absolute;
+  text-align: center;
+  left: 45%;
+  top: 40%;
+}
